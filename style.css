@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(197, 204, 202);
+  font-family: Arial, Helvetica, sans-serif;
+}
+#cabecalho {
+  background-color: rgb(81, 138, 93);
+  color: rgb(22, 22, 22);
+  border: rgb(151, 101, 101) 1px solid;
+  border-radius: 10px;
+  padding-left: 50px;
+  box-shadow: white 2px 2px 5px;
+
+  margin-bottom: 30px;
+}
+#conteudo {
+  background-color: rgba(255, 255, 255, 0.979);
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 2%;
+}
+a {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(52, 4, 163);
+  text-decoration: unset;
+  padding: 10px;
+}
+#navbar {
+  display: inline-flex;
+  text-align: center;
+}
+table{
+  height: 3px;
+}
+#mydiv {
+  transform:rotatex(360deg);
+}
